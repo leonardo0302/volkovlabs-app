@@ -55,7 +55,7 @@ COPY img/fav32.png /usr/share/grafana/public/img
 COPY img/fav32.png /usr/share/grafana/public/img/apple-touch-icon.png
 
 ## Replace Logo
-COPY img/logo.svg /usr/share/grafana/public/img/grafana_icon.svg
+
 
 ## Update Background
 COPY img/background.svg /usr/share/grafana/public/img/g8_login_dark.svg
